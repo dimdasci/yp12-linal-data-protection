@@ -1,6 +1,6 @@
 notebooks_work_directory = "${CURDIR}/notebooks"
 notebook_data_directory = "${CURDIR}/notebooks/data"
-image_tag = "yp12-1.0.0"
+image_tag = "yp12-1.0.1"
 image_name = "yp_notebooks"
 container_name = "yp_notebook_12"
 
